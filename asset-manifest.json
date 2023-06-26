@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test1Bettv/static/css/main.17cca666.css",
+    "main.js": "/Test1Bettv/static/js/main.21bbd59f.js",
+    "index.html": "/Test1Bettv/index.html",
+    "main.17cca666.css.map": "/Test1Bettv/static/css/main.17cca666.css.map",
+    "main.21bbd59f.js.map": "/Test1Bettv/static/js/main.21bbd59f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17cca666.css",
+    "static/js/main.21bbd59f.js"
+  ]
+}
