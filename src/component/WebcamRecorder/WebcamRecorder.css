@@ -1,0 +1,16 @@
+button {
+    position: fixed;
+  }
+  
+  .start-button {
+    top: 10px;
+    left: 10px;
+  }
+  
+  .stop-button {
+    top: 10px;
+    left: 120px;
+  }
+.video-flip{
+    transform: scaleX(-1);
+}  
